@@ -11,11 +11,12 @@
 This repository contains all **lab assignments, experiments, and mini-projects** completed as part of the **Machine Learning Laboratory (UML501P)** course at Thapar Institute of Engineering & Technology, under the guidance of *Dr. Manisha Malik*.
 
 ### 🧠 Topics Covered
- - [x] NumPy
- - [x] Pandas, Matplotlib
- - [x] Multiple Linear Regression
- - [x] Web Scraping
- - [ ] Ridge & LASSO regression
+ - [x] [Assignment 1 - NumPy](./ML_assign1.ipynb)
+ - [x] [Assignment 2 - Pandas, Matplotlib](./ML_assign2.ipynb)
+ - [x] [Assignment 3 - Multiple Linear Regression](./ML_assign3.ipynb)
+ - [x] [Assignment 4 - Web Scraping](./ML_assign4.ipynb)
+ - [ ] Assignment 5 - Ridge & LASSO regression
+ - [ ] Assignment 6
 
 ---
 

@@ -20,5 +20,5 @@ This repository contains all **lab assignments, experiments, and mini-projects**
 
 ---
 
-### 🧾 License
+### ⚠️ NOTE
 This repository is intended for **academic and learning purposes only**.

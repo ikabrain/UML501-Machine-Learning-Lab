@@ -1,4 +1,4 @@
-_(Ma'am, please refer to the section [**Topics Covered**](https://github.com/ikabrain/UML501-Machine-Learning-Lab/blob/main/README.md#-topics-covered) for full list of all experiments)_
+_(Ma'am, please refer to the section [**Topics Covered**](#-topics-covered) for full list of all experiments)_
 # Machine Learning Laboratory (UML501P) — BE-COE, Semester V (2025)
 
 > **👤 Student:** Ikansh Mahajan  

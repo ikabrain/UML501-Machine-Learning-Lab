@@ -16,7 +16,7 @@ This repository contains all **lab assignments, experiments, and mini-projects**
  - [x] [Assignment 2 - Pandas, Matplotlib](./ML_assign2/ML_assign2.ipynb)
  - [x] [Assignment 3 - Multiple Linear Regression](./ML_assign3/ML_assign3.ipynb)
  - [x] [Assignment 4 - Web Scraping](./ML_assign4/ML_assign4.ipynb)
- - [ ] [Assignment 5 - Ridge, LASSO & Multivariate Logistic Regression](./ML_assign5/ML_assign5.ipynb)
+ - [x] [Assignment 5 - Ridge, LASSO & Multivariate Logistic Regression](./ML_assign5/ML_assign5.ipynb)
  - [ ] [Assignment 6 - Gausian Naive Bayes & K-NN Classifiers](./ML_assign6/ML_assign6.ipynb)
 
 ---

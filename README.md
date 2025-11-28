@@ -22,7 +22,7 @@ This repository contains all **lab assignments, experiments, and mini-projects**
 - [x] [Assignment 5 - Ridge, LASSO & Multivariate Logistic Regression](./ML_assign5/ML_assign5.ipynb)
 - [x] [Assignment 6 - Gausian Naive Bayes & K-NN Classifiers](./ML_assign6/ML_assign6.ipynb)
 - [x] [Assignment 7 - Support Vector Machines](./ML_assign7/ML_assign7.ipynb)
-- [ ] [Assignment 8 - Adaboost](./ML_assign8/ML_assign8.ipynb)
+- [x] [Assignment 8 - Adaboost](./ML_assign8/ML_assign8.ipynb)
 
 ---
 
